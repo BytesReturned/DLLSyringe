@@ -1,0 +1,2 @@
+C:\Users\franco\Desktop\DLLSyringe\x64\Debug\DLLSyringe.exe
+C:\Users\franco\Desktop\DLLSyringe\x64\Debug\DLLSyringe.pdb
