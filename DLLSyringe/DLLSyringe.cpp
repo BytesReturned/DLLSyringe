@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
-    SetConsoleTitle((LPCWSTR)"DLLSyringe");
     string titolo;
     cout << "Inserisci il titolo esatto (case sensitive) della finestra ";
     cin >> titolo;
